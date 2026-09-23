@@ -67,6 +67,10 @@ items.forEach((item) => {
 
 [`sample-output.json`](./sample-output.json) contains illustrative records with `example.com` addresses so no person's email is published in this example. The live five-company run returned `name`, `emails`, `city`, `state`, `propertyTypes`, and source `url` fields. An Austin search can include a company based elsewhere, so filter returned addresses if office location matters. Directory-published emails are not deliverability-verified inboxes.
 
+This larger results preview shows eight companies. Email values are masked in the public screenshot; the Actor's dataset export retains the actual values.
+
+![Property-management results with email values masked](./all_property_management_results.png)
+
 ## Use cases
 
 - Build a targeted property-management company list by market
