@@ -1,0 +1,40 @@
+[
+  {
+    "id": 10001,
+    "name": "Example Residential Management",
+    "url": "https://www.allpropertymanagement.com/property-management/companies/10001/",
+    "email": "hello@example.com",
+    "emails": ["hello@example.com", "leasing@example.com"],
+    "street": "100 Example Street",
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78701",
+    "country": "US",
+    "additionalOffices": [],
+    "tagline": "Residential property management",
+    "description": "Illustrative company profile.",
+    "propertyTypes": ["Single Home or Condo (Valued up to $300K)"],
+    "logoUrl": null,
+    "rank": 0,
+    "scrapedAt": "2026-09-23T09:10:42.608Z"
+  },
+  {
+    "id": 10002,
+    "name": "Example Community Management",
+    "url": "https://www.allpropertymanagement.com/property-management/companies/10002/",
+    "email": "team@example.com",
+    "emails": ["team@example.com"],
+    "street": "200 Example Avenue",
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78702",
+    "country": "US",
+    "additionalOffices": [],
+    "tagline": "Community association management",
+    "description": "Illustrative company profile.",
+    "propertyTypes": ["Homeowners Association (50-99 units)"],
+    "logoUrl": null,
+    "rank": 0,
+    "scrapedAt": "2026-09-23T09:10:42.587Z"
+  }
+]
